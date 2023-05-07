@@ -90,15 +90,3 @@
     background-color: rgba(0, 255, 0, 0.3);
 }
 
-@media(max-width:1200px) {
-    .game-info{
-        top: 10rem;
-        font-size: 2rem;
-        padding: 1.5rem 6rem;
-    }
-    .tic-tac-toe
-    {
-        max-width: 40rem;
-
-    }
-}
